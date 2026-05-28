@@ -1,0 +1,52 @@
+{
+  "Imagens": [
+    ".jpg",
+    ".jpeg",
+    ".png",
+    ".gif",
+    ".bmp",
+    ".svg",
+    ".webp"
+  ],
+  "PDFs": [
+    ".pdf"
+  ],
+  "Vídeos": [
+    ".mp4",
+    ".mkv",
+    ".avi",
+    ".mov",
+    ".wmv",
+    ".flv"
+  ],
+  "Documentos": [
+    ".doc",
+    ".docx",
+    ".txt",
+    ".rtf",
+    ".odt"
+  ],
+  "Planilhas": [
+    ".xls",
+    ".xlsx",
+    ".csv",
+    ".ods"
+  ],
+  "Compactados": [
+    ".zip",
+    ".rar",
+    ".7z",
+    ".tar",
+    ".gz"
+  ],
+  "Músicas": [
+    ".mp3",
+    ".wav",
+    ".flac",
+    ".aac",
+    ".ogg"
+  ],
+  "Audio_livro": [
+    ".epub"
+  ]
+}
